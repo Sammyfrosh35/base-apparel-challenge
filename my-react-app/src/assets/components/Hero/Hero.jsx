@@ -88,6 +88,11 @@ const Hero = () => {
             <img src="./hero-desktop.jpg" alt="" />
           </div>
         </div>
+        <p class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="#">Badejo samuel</a>.
+    </p>
+
     </section>
   );
 };
